@@ -1,0 +1,14 @@
+﻿p5env/
+venv/
+.venv/
+.cache/
+*.safetensors
+*.bin
+*.pt
+*.onnx
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Thumbs.db
+.DS_Store
+desktop.ini

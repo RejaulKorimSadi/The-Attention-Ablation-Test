@@ -1,0 +1,1402 @@
+[
+  {
+    "item_id": "ITEM_001",
+    "prompt": "On what day, month, and year did Bruno Kreisky (an Austrian social democratic politician) marry Vera F\u00fcrth?",
+    "gold_answer": "April 23, 1942",
+    "response": "June 15, 1960.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_002",
+    "prompt": "What year was the municipality of Ramiriqu\u00ed, Boyac\u00e1, Colombia, founded?",
+    "gold_answer": "1541",
+    "response": "1872.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_003",
+    "prompt": "What prize was Jean Chazy awarded in 1922 by the French Academy of Sciences for his papers on the three-body problem?",
+    "gold_answer": "Prix Benjamin Valz",
+    "response": "The Prix Jules Janssen.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_004",
+    "prompt": "What were the first, middle, and last names of the third deputy speaker of the National Assembly of Pakistan?",
+    "gold_answer": "Cecil Edward Gibbon",
+    "response": "Nawaz Sharif, Asif Zardari, and Shahbaz Sharif.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_005",
+    "prompt": "What is the Glottolog language code of the Aralle-Tabulahan language?",
+    "gold_answer": "aral1243",
+    "response": "A-T.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_006",
+    "prompt": "In what year did Hjalmar Hvam invent a mechanism that allowed skiing athletes to release the binding that secured their shoes to the boards in case of an emergency after his first injury?",
+    "gold_answer": "1937",
+    "response": "1878.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_007",
+    "prompt": "What's the name of the active president of the United States in Season 1 of Motherland: Fort Salem?",
+    "gold_answer": "President Kelly Wade",
+    "response": "George W. Bush.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_008",
+    "prompt": "In which year did Fayaz A. Malik (an Indian pharmacologist, cancer biologist, and scientist) receive the Young Scientist of the Year from the Council of Scientific and Industrial Research?",
+    "gold_answer": "2009",
+    "response": "1998.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_009",
+    "prompt": "Who won the 2015 Maine State Pumpkin and Squash Weigh-Off, held at the Cumberland Fair?",
+    "gold_answer": "Edwin Pierpont",
+    "response": "The Maine State Fair.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_010",
+    "prompt": "What day, month, and year was the Retlaw 1 combine car sold to the Carolwood Foundation?",
+    "gold_answer": "July 10, 2010",
+    "response": "June, 1975.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_011",
+    "prompt": "In which year was John B. Goodenough elected a Foreign Member of the Royal Society?",
+    "gold_answer": "2010",
+    "response": "1930.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_012",
+    "prompt": "Which Ivy League university granted psychologist Robert Rutherford Holt both a master's degree and a Ph.D.?",
+    "gold_answer": "Harvard",
+    "response": "Harvard.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_013",
+    "prompt": "In what city and state is Richard Neutra's Slavin House located?",
+    "gold_answer": "Santa Barbara, California",
+    "response": "Los Angeles, California.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_014",
+    "prompt": "What is the name of the former Prime Minister of Iceland who worked as a cabin crew member until 1971?",
+    "gold_answer": "J\u00f3hanna Sigur\u00f0ard\u00f3ttir",
+    "response": "Einar P. Benediktsson.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_015",
+    "prompt": "In which year did Atul Gawande earn an M.A. in Philosophy, Politics and Economics (PPE) from Balliol College, Oxford?",
+    "gold_answer": " 1989",
+    "response": "2006.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_016",
+    "prompt": "In which year and month were the Milwaukee Bucks of the National Basketball Association (NBA) the victim of this type of cyber scam, with a perpetrator impersonating the team's president Peter Feigin, resulting in the handover of all the team's employees' 2015 W-2 tax forms?",
+    "gold_answer": "May 2016",
+    "response": "2015.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_017",
+    "prompt": "How many singles did Chip Fields-Hurd record for Buddah Records?",
+    "gold_answer": "Two.",
+    "response": "One.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_018",
+    "prompt": "What was the first and last name of Daniel Boone's younger brother born on October 5, 1744?",
+    "gold_answer": "Squire Boone",
+    "response": "Daniel Boone.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_019",
+    "prompt": "What is the signature frequency of a healthy human body in MHz according to Heidi Yellen in 2003?",
+    "gold_answer": "100",
+    "response": "1.6.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_020",
+    "prompt": "Who was named the new editor-in-chief of The Manila Bulletin in May 2021, succeeding Dr. Crispulo Icban?",
+    "gold_answer": "Loreto D. Caba\u00f1es",
+    "response": "Dr. Crispulo Icban.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_021",
+    "prompt": "What year did Andr\u00e9-Jean-Jacques Deshayes retire from ballet?",
+    "gold_answer": "1842",
+    "response": "1842.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_022",
+    "prompt": "What day, month, and year did Russia annex Donetsk and Luhansk after invading and occupying the territory in 2022?",
+    "gold_answer": "30 September 2022",
+    "response": "March, 2022.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_023",
+    "prompt": "What is the unique form of masked dance performed in Jharkhand locally known as?",
+    "gold_answer": "The chhau.",
+    "response": "The Khela.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_024",
+    "prompt": "Which senator introduced the Act Prohibiting Importation of Slaves into the Senate?",
+    "gold_answer": "James Turner",
+    "response": "James Mason.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_025",
+    "prompt": "Who was the first transgender person in Argentina to get her name and gender on her government-issued ID legally changed?",
+    "gold_answer": "Florencia de la V",
+    "response": "Mariela Castro.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_026",
+    "prompt": "What is the title of the song after which Lady Annabel Goldsmith, the famous English socialite, was named?",
+    "gold_answer": "\"Miss Annabel Lee\"",
+    "response": "\"The Laughing Song.\"",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_027",
+    "prompt": "The massive millisecond pulsar PSR J0952\u20130607 is located within which constellation?",
+    "gold_answer": "Sextans",
+    "response": "Aquila.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_028",
+    "prompt": "In which year did Hossein Baharvand, an Iranian stem cell and developmental biologist, receive the Mustafa Prize?",
+    "gold_answer": "2019",
+    "response": "2005.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_029",
+    "prompt": "What is the surname of the U.S. President who attended the 66th birthday of Kenneth Stanley \"Boots\" Adams, former president of Phillips Petroleum Company?",
+    "gold_answer": "Eisenhower",
+    "response": "Adams.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_030",
+    "prompt": "What was the pass accuracy of France in the FIFA World Cup Final between France and Croatia in 2018?",
+    "gold_answer": "68%",
+    "response": "0.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_031",
+    "prompt": "On what day, month, and year was Takashi Masuzaki born?",
+    "gold_answer": "Dec 8th, 1962",
+    "response": "April 15, 1878.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_032",
+    "prompt": "On what month, day, and year did Judge Michael W. Mosman assume senior status?",
+    "gold_answer": "December 27, 2021",
+    "response": "January 1, 2005.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_033",
+    "prompt": "Who killed Major Disaster?",
+    "gold_answer": " Superboy-Prime",
+    "response": "The Joker.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_034",
+    "prompt": "What was the name of the cat who was a cousin of Tom's, but was scared of mice, in the Tom and Jerry cartoons?",
+    "gold_answer": "George",
+    "response": "Tweety.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_035",
+    "prompt": "In 2022, which university did Honda Battle of the Bands (HBOB) select to be the first-ever HBCU campus to host the in-person event?",
+    "gold_answer": "Alabama State University",
+    "response": "Hampton University.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_036",
+    "prompt": "Provide the day, month, and year Foxtel and Microsoft announced a new way of receiving Foxtel through Xbox 360's online service Xbox LIVE.",
+    "gold_answer": "20 May, 2010",
+    "response": "June 1, 2007.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_037",
+    "prompt": "In which year and month did El Cielo receive its first Michelin star in Miami?",
+    "gold_answer": "June 2022",
+    "response": "1996.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_038",
+    "prompt": "In what year did Patty Berg become the first woman to hit a hole-in-one during a USGA competition at the U.S. Women's Open?",
+    "gold_answer": "1959",
+    "response": "1998.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_039",
+    "prompt": "As of the 2020 census, what was the population of the city of Fort Oglethorpe, which is in the U.S. state of Georgia?",
+    "gold_answer": "10,423",
+    "response": "1,964.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_040",
+    "prompt": "What specific type of joints are in a giraffe's neck vertebrae?",
+    "gold_answer": "Ball-and-socket joints",
+    "response": "Zygapophysial joints.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_041",
+    "prompt": "What minor planet designation number was originally assigned to the asteroid 176 Iduna?",
+    "gold_answer": "175",
+    "response": "176 Iduna.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_042",
+    "prompt": "In what year did S. Osman Ali, the 7th Governor of the State Bank of Pakistan, enter the Indian Civil Service?",
+    "gold_answer": "1934",
+    "response": "1947.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_043",
+    "prompt": "In what city and country did Gustave \"Gus\" Fitzhugh Touchard Jr. pass away?",
+    "gold_answer": "Toronto, Canada",
+    "response": "New Orleans, Louisiana.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_044",
+    "prompt": "Who was the president of the University of Puerto Rico in 2003?",
+    "gold_answer": "Antonio Garcia Padilla",
+    "response": "Pedro Rossell\u00f3.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_045",
+    "prompt": "Which DropoutTV series is a spin-off of \"Game Changer\" inspired by its \"Noise Boys\" episodes?",
+    "gold_answer": "Make Some Noise",
+    "response": "\"Dropout.\"",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_046",
+    "prompt": "Who played the character Dr. Maxwell Stanton in the TV show \"In the House\" for Seasons 3-5?",
+    "gold_answer": "Alfonso Ribeiro",
+    "response": "John Lithgow.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_047",
+    "prompt": "What was the first and last name of the resident designer at the Merce Cunningham Dance Company after Jasper Johns?",
+    "gold_answer": "Mark Lancaster",
+    "response": "Jasper Johns.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_048",
+    "prompt": "In what year did Willis H. Flygare win the Irving Langmuir Award?",
+    "gold_answer": "1981",
+    "response": "1977.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_049",
+    "prompt": "In September 2022, biologists reported what number of Devils Hole Pupfish in Devils Hole, the most they'd observed in 19 years?",
+    "gold_answer": "263.",
+    "response": "1,000.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_050",
+    "prompt": "Who was the commencement speaker at Harvard in 2018?",
+    "gold_answer": "John Lewis",
+    "response": "President Trump.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_051",
+    "prompt": "How far is Quainton Road Railway Station from London in miles?",
+    "gold_answer": "44 miles",
+    "response": "About 50 miles.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_052",
+    "prompt": "In January 2021, who did Speaker of the Maryland House of Delegates Adrienne A. Jones consult with to craft her \"Black agenda\"?",
+    "gold_answer": "Wes Moore",
+    "response": "The Maryland Black Caucus.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_053",
+    "prompt": "In which town in New Zealand was actress Amanda Billing born and raised?",
+    "gold_answer": "Masterton",
+    "response": "Auckland.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_054",
+    "prompt": "On which day, month, and year was the SROSS-C satellite launched from the Satish Dhawan Space Centre in India?",
+    "gold_answer": "20 May 1992",
+    "response": "April 25, 1998.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_055",
+    "prompt": "What year was the municipality of San Miguel de Sema, Boyac\u00e1, Colombia, founded?",
+    "gold_answer": "1915",
+    "response": "1810.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_056",
+    "prompt": "Who sketched the \"Taddei Tondo\" soon after it arrived in England and wrote this to Sir George Beaumont: \"Your important acquisition of the basso-relievo of Michael Angelo is still the chief talk of all our artists\"?",
+    "gold_answer": "David Wilkie",
+    "response": "Michelangelo.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_057",
+    "prompt": "Who was the first woman elected to the Executive Committee of the African National Congress?",
+    "gold_answer": "Lilian Masediba Matabane Ngoyi",
+    "response": "Winnie Mandela.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_058",
+    "prompt": "Who gave the concept of psychic secretion?",
+    "gold_answer": "Ivan Pavlov",
+    "response": "Carl Jung.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_059",
+    "prompt": "On what day, month, and year did Oommen Chandy, former Chief Minister of Kerala, die?",
+    "gold_answer": "18 July 2023",
+    "response": "April 6, 2012.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_060",
+    "prompt": "Who was the rector of Hacettepe University in 2006?",
+    "gold_answer": "Prof. Dr. Tun\u00e7alp \u00d6ZGEN",
+    "response": "Dr. Atilla Keskin.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_061",
+    "prompt": "What were the day, month, and year when the European Court of Human Rights ruled in favor of Carola van K\u00fcck, a German trans woman whose insurance company denied her reimbursement for sex reassignment surgery as well as hormone replacement therapy?",
+    "gold_answer": "12 June 2003",
+    "response": "June, 2014.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_062",
+    "prompt": "What year did Reinhold Rudenberg retire?",
+    "gold_answer": "1952",
+    "response": "He retired in 1998.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_063",
+    "prompt": "What is the name of the Welsh nurse who specializes in palliative care and was elected Fellow of the Learned Society of Wales in 2011?",
+    "gold_answer": "Mari Lloyd-Williams",
+    "response": "Rhiannon.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_064",
+    "prompt": "The Black Widow Pulsar (PSR B1957+20) is located within which constellation?",
+    "gold_answer": "Sagitta",
+    "response": "The constellation of the Big Dipper.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_065",
+    "prompt": "What is the name and surname of the person who was the first recipient of the Carl E. Misch Advanced Dental Implant Studies Education Award in 2017?",
+    "gold_answer": "Dr. Michael A. Pikos",
+    "response": "Dr. Misch.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_066",
+    "prompt": "In what month, date, and year did Jarrette Jones from the American version of \"Love Is Blind\" Season 2 announce his separation?",
+    "gold_answer": "August 17th, 2022",
+    "response": "February, 2009.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_067",
+    "prompt": "When (month, day, year) was the first-ever Whittier Comic Fest in Whittier, California?",
+    "gold_answer": "November 18, 2023",
+    "response": "October.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_068",
+    "prompt": "What year was the municipality of Caucasia, Antioquia, Colombia, founded?",
+    "gold_answer": "1886",
+    "response": "1812.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_069",
+    "prompt": "Name the person appointed as Vice-Chancellor of Jamia Millia Islamia in the year 1978.",
+    "gold_answer": "Anwar Jamal Kidwai",
+    "response": "Zakir Hussain.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_070",
+    "prompt": "What month, date, and year was Sicily Sewell released from the TV show \"One on One\"?",
+    "gold_answer": "20 Jun 2005",
+    "response": "June, 1990, and 1990.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_071",
+    "prompt": "Who preceded Oscar Alende as governor of the Province of Buenos Aires?",
+    "gold_answer": "Emilio Alvaro Bonnecarrere",
+    "response": "Juan Manuel de Rosas.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_072",
+    "prompt": "In which Nebraska city was painter Kathleen Gemberling Adkison born in 1917?",
+    "gold_answer": "Beatrice",
+    "response": "Lincoln.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_073",
+    "prompt": "On what day, month, and year did Gopalaswami Parthasarathy assume the charge of Vice Chancellor of Jawaharlal Nehru University?",
+    "gold_answer": "April 28, 1969",
+    "response": "March 1, 1967.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_074",
+    "prompt": "What was the population of the town of Lesbury in Northumberland, England in the 2011 census?",
+    "gold_answer": "1007",
+    "response": "1,975.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_075",
+    "prompt": "On what date (day, month, year) did composer Sigrid Ingeborg Henriette Wienecke die?",
+    "gold_answer": "April 18, 1907",
+    "response": "April 6, 1874.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_076",
+    "prompt": "Who was Carlos Menem's first Minister of Social Assistance and Public Health?",
+    "gold_answer": "Julio Corzo\n",
+    "response": "Carlos Menem.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_077",
+    "prompt": "For how many consecutive terms was the Indian politician Babanrao Shankar Gholap, alias Nana, elected to the Vidhan Sabha?",
+    "gold_answer": "5",
+    "response": "Six.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_078",
+    "prompt": "On what day, month, and year was the famous Cape Malay chef and author Fatima Sydow born?",
+    "gold_answer": "November 12, 1973.",
+    "response": "April 15, 1874.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_079",
+    "prompt": "What is the name of the engineer and politician Ralph Edward Flanders' sole son?",
+    "gold_answer": "James.",
+    "response": "Ralph Edward Flanders.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_080",
+    "prompt": "Which architect built the Fern\u00e1ndez Anchorena Palace?",
+    "gold_answer": "Eduardo Le Monnier",
+    "response": "Juan Bautista de Anchorena.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_081",
+    "prompt": "What was the original settlement name of the village of Addison, Michigan?",
+    "gold_answer": "Manetue",
+    "response": "Addison.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_082",
+    "prompt": "In which season and episode of South Park does Randy become a chef at South Park Elementary?",
+    "gold_answer": "Season 14, \"Cr\u00e8me Fra\u00eeche\"",
+    "response": "Season 4, Episode 3, \"The Return of Chef\".",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_083",
+    "prompt": "In what year was Phillip Paul Bliss, famous Christian songwriter, appointed as a teacher in the Rome, Pennsylvania Academy?",
+    "gold_answer": "1858",
+    "response": "1842.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_084",
+    "prompt": "What is the counter strength value for the Fume Sword in Dark Souls II?",
+    "gold_answer": "120",
+    "response": "1.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_085",
+    "prompt": "What month and year was Miranda Lambert's album \"Revolution\" certified platinum by the RIAA?",
+    "gold_answer": "October 2010",
+    "response": "November 2012.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_086",
+    "prompt": "What is the maximum length of the Aegean Sea in miles?",
+    "gold_answer": "430 mi",
+    "response": "1,000 miles.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_087",
+    "prompt": "Who is the Japanese voice actor for the character Kiergaard in the game Ys VIII: Lacrimosa of Dana?",
+    "gold_answer": "Daisuke Kishio.",
+    "response": "Toshiyuki Morikawa.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_088",
+    "prompt": "How many years was the Game Boy produced?",
+    "gold_answer": "14 years",
+    "response": "The Game Boy was produced in 1989.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_089",
+    "prompt": "According to Medland, Sarah E.; Loesch, Danuta Z.; Mdzewski, Bogdan; Zhu, Gu; Montgomery, Grant W.; Martin, Nicholas G. (September 28, 2007), what chromosome location was identified as linked to the finger ridge counts of the ring, index, and middle fingers through multivariate linkage analysis?",
+    "gold_answer": "5q14.1",
+    "response": "Chromosome 1.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_090",
+    "prompt": "Which glacier is known as the \"Third Pole\"?",
+    "gold_answer": "The Siachen Glacier",
+    "response": "The one in the Antarctic.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_091",
+    "prompt": "What year was the municipality of Belmira, Antioquia, Colombia, founded?",
+    "gold_answer": "1757",
+    "response": "1872.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_092",
+    "prompt": "On which day, month, and year was the Bazina du Gour added to the cultural category of the UNESCO World Heritage Tentative List?",
+    "gold_answer": "July 1, 1995",
+    "response": "October 17, 2000.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_093",
+    "prompt": "Name the traditional dance in Kashmir where a male dancer accompanies the chhakri singers and was introduced during the Afghan period.",
+    "gold_answer": "Bacha Nagma ",
+    "response": "The Khoja.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_094",
+    "prompt": "During which years did Richard H.G. Parry serve as Secretary-General of the International Society for Soil Mechanics and Geotechnical Engineering?",
+    "gold_answer": "1981-1999",
+    "response": "The years were from 1948 to 1951.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_095",
+    "prompt": "What year was Oliver Heaviside awarded the Faraday Medal?",
+    "gold_answer": "1922",
+    "response": "1929.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_096",
+    "prompt": "What words were on Tara Calico's shirt the day she disappeared?",
+    "gold_answer": "1st National Bank of Belen",
+    "response": "\"I'm a little bit pregnant.\"",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_097",
+    "prompt": "What was the rank of Oussama Mellouli at the 2000 Olympics for the men's 400-metre individual medley?",
+    "gold_answer": "43rd.",
+    "response": "4th.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_098",
+    "prompt": "What day, month, and year was Kelly Clarkson's album \"Piece by Piece\" released on CD in Brazil?",
+    "gold_answer": "March 10, 2015",
+    "response": "June, 2002.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_099",
+    "prompt": "What is the local name of Allium humile Kunth in Kashmir as mentioned in the article \"The local medicinal plant knowledge in Kashmir Western Himalaya: A way to foster ecological transition via community-centred health seeking strategies\"?",
+    "gold_answer": "Mali Da Pyaz",
+    "response": "\"Kashmiri name of Allium humile Kunth is 'Kashmiri Chakkar' which means 'the plant of the village'\".",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_100",
+    "prompt": "At what time to the nearest tenth of a second did Joeri Adams end the race, ranking in first position, in the 2007 UCI Cyclo-cross World Championships \u2013 Men's junior race?",
+    "gold_answer": "41:18",
+    "response": "1.2 seconds.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_101",
+    "prompt": "What is the month, day, and year that the United States removed Eritrea from the \"Counterterror Non-Cooperation List\"?",
+    "gold_answer": "May, 28, and 2019",
+    "response": "June, June, June.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_102",
+    "prompt": "In what year did Sir William Beechey (British Portraitist) retire to Hampstead?",
+    "gold_answer": "1836",
+    "response": "1805.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_103",
+    "prompt": "What day, month, and year was the New Zealand Prime Minister Christopher Luxon born?",
+    "gold_answer": "19 July 1970",
+    "response": "April 1, 1874.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_104",
+    "prompt": "To whom was A. Wallis Myers married?",
+    "gold_answer": " Lilian Gentry",
+    "response": "His wife.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_105",
+    "prompt": "Who originally recorded the scientific name of the white-headed duck as *Anas leucocephala* in 1769?",
+    "gold_answer": "Giovanni Antonio Scopoli",
+    "response": "John Bartram.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_106",
+    "prompt": "In the series \"Benson\" S7 E16, what is the title of the episode?",
+    "gold_answer": "The Hat and the Ring",
+    "response": "\"The Last Supper.\"",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_107",
+    "prompt": "What was the original scientific name given to *Calytrix acutifolia* by John Lindley in 1839?",
+    "gold_answer": "Lhotskya acutifolia",
+    "response": "Calycina acutifolia.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_108",
+    "prompt": "Odisha\u2019s longest road bridge, \u201cNetaji Subhas Chandra Bose Setu,\u201d has been built over which tributary of the Mahanadi River?",
+    "gold_answer": "Kathajodi ",
+    "response": "Mahanadi.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_109",
+    "prompt": "In which year did Melbourne's Monash Gallery of Art (MGA) rebrand and become the Museum of Australian Photography (MAPh)?",
+    "gold_answer": "2023",
+    "response": "1998.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_110",
+    "prompt": "What was the capacity of the orchestra level of the Hanna Theatre located in Cleveland, Ohio, before its renovation?",
+    "gold_answer": "827 seats",
+    "response": "1,000.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_111",
+    "prompt": "What day, month, and year was the municipality of Peque, Antioquia, Colombia, founded?",
+    "gold_answer": "January 3, 1868",
+    "response": "April 15, 1537.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_112",
+    "prompt": "Which two universities did Chadwell O'Connor attend?",
+    "gold_answer": "Stevens Institute of Technology and California Institute of Technology",
+    "response": "Harvard and Oxford.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_113",
+    "prompt": "Who won the Florence Nightingale David Award in 2015?",
+    "gold_answer": "Francesca Dominici",
+    "response": "The American Red Cross.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_114",
+    "prompt": "In the 2012 research paper titled \"Multiplication of EEG Samples through Replicating, Biasing, and Overlapping\" by Adham Atyabi et al., between what frequencies was the EEG dataset bandpass filtered, in hertz (Hz)?",
+    "gold_answer": "1 & 50",
+    "response": "0.1-100.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_115",
+    "prompt": "What is the surname of the individual who won the Sir George Stokes Award (colloquially the Stokes Medal) in 2001?",
+    "gold_answer": "Norris",
+    "response": "Stokes.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_116",
+    "prompt": "On what day, month, and year was John II of France coronated as King of France?",
+    "gold_answer": "26 September 1350",
+    "response": "June 18, 1775.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_117",
+    "prompt": "What band opened on Sunday, September 6, 1992, at Ieperfest Hardcore '92 festival?",
+    "gold_answer": "Abolition",
+    "response": "The Cult.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_118",
+    "prompt": "Which Indian institute won the 2017 IEEE Spectrum Technology in the Service of Society Award?",
+    "gold_answer": "Indian Institute of Technology Madras",
+    "response": "Indian Institute of Technology, Kanpur.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_119",
+    "prompt": "In what year did the Ethiopian politician Billene Seyoum Woldeyes co-form a spoken-word poetry collective called Zemneged-Andinet?",
+    "gold_answer": "2011",
+    "response": "1994.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_120",
+    "prompt": "In what year was Oliviero Diliberto first elected as an MP for the Communist Refoundation Party?",
+    "gold_answer": "1994",
+    "response": "1974.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_121",
+    "prompt": "Which month and year was ex-president of Ghana, J.J. Rawlings enstooled as Togbuiga Nutifafa I of Anlo?",
+    "gold_answer": "December 2018",
+    "response": "January, 2009.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_122",
+    "prompt": "In what year did Frank Munn leave the radio show \"The American Album of Familiar Music\"?",
+    "gold_answer": "1945",
+    "response": "1938.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_123",
+    "prompt": "In which university did Vujica Lazovi\u0107 defend his master's degree in 1994?",
+    "gold_answer": "University of Belgrade",
+    "response": "University of Zagreb.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_124",
+    "prompt": "Who first described the Hopfield networks with respect to recurrent neural networks in 1972?",
+    "gold_answer": "Shun'ichi Amari",
+    "response": "Hopfield.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_125",
+    "prompt": "What was the model number of the first Betamax VCR in the US?",
+    "gold_answer": "LV-1901",
+    "response": "VCR-1.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_126",
+    "prompt": "Who was the winner of the Leslie Fox Prize for Numerical Analysis in 1995?",
+    "gold_answer": "Adrian Hill",
+    "response": "John Baez.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_127",
+    "prompt": "What were the month and year when Obama launched the Priority Enforcement Program, an immigration enforcement program that had been pioneered by George W. Bush, and the Secure Communities fingerprinting and immigration status data-sharing program?",
+    "gold_answer": "July 2009",
+    "response": "October 2008 and September 2009.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_128",
+    "prompt": "At what age did Enzo Ferrari (founder of Ferrari) decide to pursue racing?",
+    "gold_answer": "10",
+    "response": "He was born in 1901.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_129",
+    "prompt": "In which year was Ruth Wilson Gilmore honored with a mural painted in New Haven, Connecticut?",
+    "gold_answer": "2023",
+    "response": "The year she was born.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_130",
+    "prompt": "In what month and year did American music producer George Avakian leave Columbia Records?",
+    "gold_answer": "March 1958. ",
+    "response": "April, 1958.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_131",
+    "prompt": "At what age did Madhusudan Dey (Modhu), founder of the Madhur Canteen, come to Dhaka, Bangladesh, with his father?",
+    "gold_answer": "15",
+    "response": "He was born in 1878.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_132",
+    "prompt": "What is the DrugBank accession number of Axitinib, a small molecule tyrosine kinase inhibitor developed by Pfizer?",
+    "gold_answer": "DB06626",
+    "response": "AXL-001.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_133",
+    "prompt": "What year is 2024 in the Discordian calendar?",
+    "gold_answer": "3190 YOLD",
+    "response": "2024.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_134",
+    "prompt": "Who is the second author of \"The Combined Effect of Air Layers and Membrane Superhydrophobicity on Biofouling in Membrane Distillation\"?",
+    "gold_answer": "Jocelyn V Gonzalez",
+    "response": "John F. O'Brien.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_135",
+    "prompt": "What was the number of recorded injuries in the Weesp train disaster of 1918 in the Netherlands?",
+    "gold_answer": "42 injuries. ",
+    "response": "1,000.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_136",
+    "prompt": "Who played baritone saxophone on the 1958 album *Basie Reunion*?",
+    "gold_answer": "Jack Washington",
+    "response": "Thelonious Monk.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_137",
+    "prompt": "What is the surname of the individual who won the Chemical Industry Medal, an annual American award given to an industrial chemist by the Society of Chemical Industry America in 1984?",
+    "gold_answer": "Affleck",
+    "response": "John F. Kennedy.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_138",
+    "prompt": "As of 6 April 2022, how many Hillsong branches in the U.S. had separated from the church since the revelations about Brian Houston?",
+    "gold_answer": "9",
+    "response": "None.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_139",
+    "prompt": "What were the month and year when WhatsApp announced updated plans to roll out a Communities feature allowing several group chats to exist in a shared space, getting unified notifications, and opening up smaller discussion groups?",
+    "gold_answer": "April 2022",
+    "response": "September 2016.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_140",
+    "prompt": "How many additional dollars did Carmen and Natalie borrow from their uncle Cicero in Season 2 of The Bear?",
+    "gold_answer": "$500,000",
+    "response": "$1,000.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_141",
+    "prompt": "Who suggested the idea of shooting liquid carbon dioxide into rain clouds to induce rainfall?",
+    "gold_answer": "Louis Gathmann",
+    "response": "Sir Arthur Conan Doyle.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_142",
+    "prompt": "In Table 2 in the Transformer paper (2017), which two languages did they use for their translation results?",
+    "gold_answer": "German and French",
+    "response": "English and Spanish.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_143",
+    "prompt": "On what day, month, and year did the physicist and chemist Katharine Burr Blodgett issue the U.S. patent for \"Step Gauge for Measuring Thickness of Thin Films\"?",
+    "gold_answer": "26 February 1952",
+    "response": "June 1, 1879.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_144",
+    "prompt": "In which year did Clive Derby-Lewis become town councilor for Bedfordview?",
+    "gold_answer": "1972",
+    "response": "He was elected in 1973.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_145",
+    "prompt": "On what day, month, and year was John Bramston appointed as a member of the Queensland Legislative Council?",
+    "gold_answer": "July 3, 1863",
+    "response": "April 1, 1879.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_146",
+    "prompt": "What were the names of the two astronomers who discovered the 435 Ella in 1898 in Germany?",
+    "gold_answer": "Max Wolf and Friedrich Karl Arnold Schwassmann",
+    "response": "Johannes Kepler and Galileo.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_147",
+    "prompt": "How was Jawaharlal Nehru addressed in the salutation of the letter sent by A.C.B., also known as A.C. Bhaktivedanta Swami Prabhupada, on August 4, 1958?",
+    "gold_answer": "My dear Pandit Ji",
+    "response": "Swami Prabhupada.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_148",
+    "prompt": "What day, month, and year was the Shaman totem Tremor Totem changed to be learned at level 18 in the beta of World of Warcraft?",
+    "gold_answer": "15 June 2004",
+    "response": "September, 2006.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_149",
+    "prompt": "In which episode number, title, and season of Regular Show is Rigby killed by Skips?",
+    "gold_answer": "Episode 21, \"Over the Top\", Season 2",
+    "response": "Episode #1, \"The Biggest Loser,\" Season 1.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_150",
+    "prompt": "In which year was *Racosperma drummondii* transferred back to the genus *Acacia*?",
+    "gold_answer": "2006",
+    "response": "1859.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_151",
+    "prompt": "What day, month, and year did Sara Duterte resign from Lakas-CMD?",
+    "gold_answer": "19 May, 2023",
+    "response": "June 30, 2016.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_152",
+    "prompt": "What is the name of Helmut Lang's solo exhibition from 2011 in East Hampton?",
+    "gold_answer": "Make it hard",
+    "response": "\"The New York Times\" said it was \"the most important show of the year.\"",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_153",
+    "prompt": "In what year was the beetle species Glipa alboscutellata described?",
+    "gold_answer": "1934",
+    "response": "1859.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_154",
+    "prompt": "What was the original name of the show that conductor David Randolph hosted on the radio station WNYC?",
+    "gold_answer": "Music for the Connoisseur",
+    "response": "The World of Opera.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_155",
+    "prompt": "What are the first names and surnames of the couple that ranked twenty-third at the Vancouver 2010 Olympics for their original ice dancing performance?",
+    "gold_answer": "Irina Shtork & Taavi Rand",
+    "response": "Tessa Virtue and Scott Moir.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_156",
+    "prompt": "Who was the first African American woman to patent a web-based EEO software (Nalikah, formerly known as LinkLine)?",
+    "gold_answer": "Janet Emerson Bashen",
+    "response": "Mary Ellen Mott.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_157",
+    "prompt": "In what month and year did Diana Vreeland resign from Harper's Bazaar?",
+    "gold_answer": "March, 1962.",
+    "response": "April, 1979.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_158",
+    "prompt": "For how many days was Frida Kahlo's first solo exhibit held?",
+    "gold_answer": "15",
+    "response": "One.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_159",
+    "prompt": "What month, day, and year did Aaron Carter, the singer, die?",
+    "gold_answer": "5 November 2022",
+    "response": "April, April, 1981.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_160",
+    "prompt": "Which place in the Jammu division is known as Chota Kashi?",
+    "gold_answer": "PURMANDAL",
+    "response": "Chota Kashi is the name of the village in the Jammu division.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_161",
+    "prompt": "In what year did Eilenberg, in a joint paper with Chevalley, give an algebraic approach to the cohomology of Lie groups using the Lie algebra as the basic object?",
+    "gold_answer": "1948",
+    "response": "1965.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_162",
+    "prompt": "What is the surname of the individual who won the Lord Lewis Prize in 2016?",
+    "gold_answer": "Poliakoff",
+    "response": "Lewis.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_163",
+    "prompt": "What year was the first SoCal Sword Fight tournament held?",
+    "gold_answer": "2012",
+    "response": "1975.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_164",
+    "prompt": "What was the name of the observatory in which 259 Aletheia was discovered in 1886?",
+    "gold_answer": "Litchfield Observatory",
+    "response": "The observatory was called the \"Aletheia Observatory.\"",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_165",
+    "prompt": "Which famous video game character is featured in the music video for Die \u00c4rzte's song \"Men Are Pigs\"?",
+    "gold_answer": "Lara Croft",
+    "response": "The Doctor.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_166",
+    "prompt": "What country placed 8th in the women's \u00e9p\u00e9e team event of the 2020 Tokyo Olympics?",
+    "gold_answer": "ROC ",
+    "response": "Japan.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_167",
+    "prompt": "Which soldier was conferred with the \"Points of Light Honour\" by British Prime Minister Rishi Sunak?",
+    "gold_answer": "Rajindar Singh Dhatt",
+    "response": "Sir John Moore.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_168",
+    "prompt": "What year was the municipality of Ventaquemada, Boyac\u00e1, Colombia, founded?",
+    "gold_answer": "1777",
+    "response": "1537.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_169",
+    "prompt": "Which award did Reza Aslan receive in 2014?",
+    "gold_answer": "The Intersections International Award",
+    "response": "The National Humanities Medal.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_170",
+    "prompt": "Which architect was tasked with finishing the chapel in the newly built Papal apartment when its construction remained incomplete after Pope Paul IV moved in, in October 1556?",
+    "gold_answer": "Pirro Ligorio",
+    "response": "Michelangelo.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_171",
+    "prompt": "What did Daemon say to Vaemond before killing him in HOTD Season 1?",
+    "gold_answer": "\"Say it.\"",
+    "response": "\"I'm going to kill you.\"",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_172",
+    "prompt": "How many lamps did the original Cape Hatteras Lighthouse contain?",
+    "gold_answer": "18.",
+    "response": "One.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_173",
+    "prompt": "On what day, month, and year was Mustafa Adebayo Balogun (Nigeria's former Inspector General of Police) released from jail after serving his sentence for corruption charges brought against him by the EFCC?",
+    "gold_answer": "February 9, 2006",
+    "response": "May 14, 2015.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_174",
+    "prompt": "What is the population of Port Huron as per the 2020 Census?",
+    "gold_answer": "28,983",
+    "response": "1,944.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_175",
+    "prompt": "Which contestant from Season 2 of The Bachelor was a former NBA cheerleader?",
+    "gold_answer": "Lori Todd",
+    "response": "Chris Soules.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_176",
+    "prompt": "In Horizon Zero Dawn's Frozen Wilds DLC, what is CYAN an acronym?",
+    "gold_answer": "Caldera of Yellowstone Analytic Nexus",
+    "response": "CYAN is a short form of the phrase \"cyanide.\"",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_177",
+    "prompt": "In which year did Ratan Parimoo (an Indian art historian from Kashmir) win first prize in Painting, Annual Exhibition, J & K Cultural Akademi?",
+    "gold_answer": "1966",
+    "response": "1878.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_178",
+    "prompt": "Which mathematician received the Carl Friedrich Gauss Prize in 2006?",
+    "gold_answer": "Kiyosi It\u00f4",
+    "response": "Paul Erdos.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_179",
+    "prompt": "In what year did the mathematician Joachim Neub\u00fcser graduate from the University of Kiel?",
+    "gold_answer": "1957",
+    "response": "1873.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_180",
+    "prompt": "What was the Christian denomination to which Frank Lloyd Wright's father originally belonged?",
+    "gold_answer": "Baptist",
+    "response": "The Church of the Brethren.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_181",
+    "prompt": "On what day, month, and year was the 435 Ella asteroid discovered?",
+    "gold_answer": "September 11, 1898",
+    "response": "April 5, 1872.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_182",
+    "prompt": "What is the surname of the individual who won the Gibson-Fawcett Award in 2012?",
+    "gold_answer": "Fogg",
+    "response": "Gibson-Fawcett Award.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_183",
+    "prompt": "What candidate in Season 11 of The Bachelorette was an amateur sex coach?",
+    "gold_answer": "Shawn Evans",
+    "response": "Chris Soules.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_184",
+    "prompt": "What position did the album \"Expectations\" by Bebe Rexha place in the 2018 US Billboard 200 year-end chart?",
+    "gold_answer": "147th",
+    "response": "No. 1.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_185",
+    "prompt": "What was the title of the journal that Charles Raymond Perrault served as co-editor-in-chief of from 2001 to 2010?",
+    "gold_answer": "Artificial Intelligence",
+    "response": "Perrault.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_186",
+    "prompt": "Which high school did Ritesh Batra attend?",
+    "gold_answer": "AVM High School",
+    "response": "St. Joseph's High School.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_187",
+    "prompt": "What year was the municipality of Caicedo, Antioquia, Colombia, founded?",
+    "gold_answer": "1870",
+    "response": "1810.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_188",
+    "prompt": "In what city did Marina Abramovi\u0107 meet Uwe Laysiepen in 1976?",
+    "gold_answer": "In Amsterdam. ",
+    "response": "New York.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_189",
+    "prompt": "Who won the 19th edition of the Women\u2019s Asian Individual Squash Championships (AISC)-2017?",
+    "gold_answer": "Joshna Chinappa",
+    "response": "Li Xuerui.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_190",
+    "prompt": "What day, month, and year was Janak Patel, a convenience store worker in Auckland, New Zealand, murdered during a robbery?",
+    "gold_answer": "23 November 2022",
+    "response": "Jan. 1, 2000.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_191",
+    "prompt": "Who was the 4th Indian president to be elected after independence from British rule?",
+    "gold_answer": "Varahagiri Venkata Giri",
+    "response": "Rajendra Prasad.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_192",
+    "prompt": "Who was the 3rd umpire in the Indian Premier League 2019 final match between CSK and MI on May 12, 2019?",
+    "gold_answer": "Nigel Llong",
+    "response": "MS Dhoni.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_193",
+    "prompt": "What is the second-largest island in the world that is part of Indonesia?",
+    "gold_answer": "New Guinea",
+    "response": "Borneo.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_194",
+    "prompt": "Which day, month, and year did \u015eahika Erc\u00fcmen break a world record in the VNF category at Ka\u015f, Antalya, Turkey, with 100 m?",
+    "gold_answer": "26 October 2021",
+    "response": "July, 2010.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_195",
+    "prompt": "What key signature was \"I Just Want to Be Where You Are\" by Don Moen composed in?",
+    "gold_answer": "G Major",
+    "response": "D-flat major.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_196",
+    "prompt": "How many bronze medals did Sweden win at the 1956 Summer Olympics?",
+    "gold_answer": "6.",
+    "response": "Two.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_197",
+    "prompt": "On what day, month, and year did Alexander Ratushnyak break the record by becoming second with PAQ8HP12, compressing enwik8 to 16,481,655 bytes and winning 1732 euros?",
+    "gold_answer": "May 14, 2007 ",
+    "response": "April 1, 2008.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_198",
+    "prompt": "What year was Michael Mark Woolfson awarded the Gregori Aminoff Prize?",
+    "gold_answer": "1992",
+    "response": "1999.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_199",
+    "prompt": "Which engineer received the Worcester Reed Warner Medal in 1951?",
+    "gold_answer": "Jacob Pieter Den Hartog",
+    "response": "William H. Webb.",
+    "model": "EleutherAI/pythia-2.8b"
+  },
+  {
+    "item_id": "ITEM_200",
+    "prompt": "Who was the first Tunisian president to be elected by universal suffrage after the 2011 revolution?",
+    "gold_answer": "Beji Caid Essebsi",
+    "response": "Beji Caid Essebsi.",
+    "model": "EleutherAI/pythia-2.8b"
+  }
+]
