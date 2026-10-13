@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this experiment, please cite it."
+title: "The Attention Ablation Test"
+authors:
+  - family-names: Sadi
+    given-names: Md. Rejaul Korim
+  - family-names: Tasin
+    given-names: Toufiqur Rahman
+  - family-names: Chowdhury
+    given-names: Dewan Fahad
+year: 2026
+url: "https://github.com/RejaulKorimSadi/The-Attention-Ablation-Test"
