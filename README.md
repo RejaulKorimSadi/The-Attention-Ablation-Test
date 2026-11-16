@@ -2,6 +2,11 @@
 
 Does self-attention decide whether a false statement in the input becomes a confident error? This experiment holds the training data, tokenizer and scale fixed and changes only how a model mixes information across a sentence. It is Study A of the B.Sc. thesis *MRI of a Mad Machine: The Structural Origins of Hallucination* (Department of CSE, Metropolitan University, Sylhet).
 
+<p align="center">
+  <img src="figures/fig_design_a.png" width="100%" alt="Design of the context-conflict probe">
+  <br><sub><b>Design.</b> One fact, nine conditions per fact (alone, planted false early/middle/late in a 9-line or 31-line text, planted true), fourteen models, automatic scoring.</sub>
+</p>
+
 ## Design
 
 Pythia (attention) and Mamba (selective state space) were both trained on the Pile with the GPT-NeoX tokenizer. We use five size-matched pairs (160M/130M, 410M/370M, 1B/790M, 1.4B/1.4B, 2.8B/2.8B) and four further attention models (Qwen2.5-0.5B, 1.5B, 3B and SmolLM2-1.7B): 14 models, all run on one 8 GB consumer GPU.
@@ -19,6 +24,11 @@ Pythia (attention) and Mamba (selective state space) were both trained on the Pi
 | Planted true line read correctly (31-line), of 111 | 111 | 110 | reading control |
 
 From 410M upward, every attention model repeats the planted falsehood more often than its matched state-space model (1.4B: 648 vs 186, 462 vs 0 discordant). Free recall from memory does not change. Attention decides whether a passage can override what the model knows.
+
+<p align="center">
+  <img src="figures/fig_study_a.png" width="100%" alt="Study A results">
+  <br><sub><b>Results.</b> a, share of the 666 conflict items on which each model repeated the planted false line, with Wilson 95% intervals. b, paired difference between the attention model and its matched state-space model, all items vs facts both models knew. c, reading control: planted true lines are read correctly by both architectures. d, all 14 models. Vector versions are in <code>figures/</code>.</sub>
+</p>
 
 ## Note on the pilot
 
