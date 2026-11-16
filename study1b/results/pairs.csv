@@ -1,0 +1,16 @@
+pythia,mamba,length,n_conflict,pythia_followed,mamba_followed,pythia_only,mamba_only,mcnemar_p,pythia_support_correct,n_support,mamba_support_correct,n_support
+EleutherAI/pythia-160m,state-spaces/mamba-130m-hf,short,333,184,148,93,57,0.00411,46,111,63,111
+EleutherAI/pythia-160m,state-spaces/mamba-130m-hf,long,333,128,123,59,54,0.707,29,111,55,111
+EleutherAI/pythia-160m,state-spaces/mamba-130m-hf,all,666,312,271,152,111,0.0135,75,222,118,222
+EleutherAI/pythia-410m,state-spaces/mamba-370m-hf,short,333,331,258,75,2,3.98e-20,109,111,95,111
+EleutherAI/pythia-410m,state-spaces/mamba-370m-hf,long,333,315,169,153,7,6.68e-37,109,111,84,111
+EleutherAI/pythia-410m,state-spaces/mamba-370m-hf,all,666,646,427,228,9,5.25e-56,218,222,179,222
+EleutherAI/pythia-1b,state-spaces/mamba-790m-hf,short,333,329,306,24,1,1.55e-06,109,111,109,111
+EleutherAI/pythia-1b,state-spaces/mamba-790m-hf,long,333,324,236,89,1,1.47e-25,109,111,108,111
+EleutherAI/pythia-1b,state-spaces/mamba-790m-hf,all,666,653,542,113,2,3.21e-31,218,222,217,222
+EleutherAI/pythia-1.4b,state-spaces/mamba-1.4b-hf,short,333,327,88,239,0,2.26e-72,111,111,107,111
+EleutherAI/pythia-1.4b,state-spaces/mamba-1.4b-hf,long,333,321,98,223,0,1.48e-67,111,111,107,111
+EleutherAI/pythia-1.4b,state-spaces/mamba-1.4b-hf,all,666,648,186,462,0,1.68e-139,222,222,214,222
+EleutherAI/pythia-2.8b,state-spaces/mamba-2.8b-hf,short,333,332,312,21,1,1.1e-05,111,111,111,111
+EleutherAI/pythia-2.8b,state-spaces/mamba-2.8b-hf,long,333,318,254,69,5,1.83e-15,111,111,110,111
+EleutherAI/pythia-2.8b,state-spaces/mamba-2.8b-hf,all,666,650,566,90,6,2.5e-20,222,222,221,222

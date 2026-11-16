@@ -1,12 +1,61 @@
 cff-version: 1.2.0
-message: "If you use this experiment, please cite it."
+message: "If you use this experiment or its data, please cite it as below."
 title: "The Attention Ablation Test"
+abstract: >-
+  A controlled test of whether self-attention decides if a false statement in the input
+  becomes a confident error. Five size-matched Pythia (attention) and Mamba (state space)
+  pairs trained on the same data with the same tokenizer, plus four further attention
+  models (14 in total), are compared on free recall (200 SimpleQA questions) and on a
+  999-item context-conflict probe. Free recall does not change; the attention models
+  repeat a planted falsehood more often from 410M upward (2.8B: 650 vs 566 of 666,
+  p = 2.5e-20), including on facts both models knew.
+type: dataset
 authors:
   - family-names: Sadi
     given-names: Md. Rejaul Korim
+    affiliation: "Metropolitan University, Sylhet"
   - family-names: Tasin
     given-names: Toufiqur Rahman
+    affiliation: "Metropolitan University, Sylhet"
   - family-names: Chowdhury
     given-names: Dewan Fahad
-year: 2026
-url: "https://github.com/RejaulKorimSadi/The-Attention-Ablation-Test"
+    affiliation: "Metropolitan University, Sylhet"
+repository-code: "https://github.com/RejaulKorimSadi/The-Attention-Ablation-Test"
+license: MIT
+keywords:
+  - hallucination
+  - large language models
+  - self-attention
+  - state-space models
+  - Mamba
+  - Pythia
+  - ablation
+  - context faithfulness
+date-released: "2026-11-17"
+version: "1.0.0"
+references:
+  - type: article
+    title: "From Architecture to Output: Testing the Structural Origins of Hallucination and the Amplifying Role of Data"
+    authors:
+      - family-names: Sadi
+        given-names: Md. Rejaul Korim
+      - family-names: Tasin
+        given-names: Toufiqur Rahman
+      - family-names: Naeem
+        given-names: Golam Mostofa
+    year: 2026
+    identifiers:
+      - type: other
+        value: "arXiv:2606.07537"
+  - type: thesis
+    title: "MRI of a Mad Machine: The Structural Origins of Hallucination"
+    authors:
+      - family-names: Sadi
+        given-names: Md. Rejaul Korim
+      - family-names: Tasin
+        given-names: Toufiqur Rahman
+      - family-names: Chowdhury
+        given-names: Dewan Fahad
+    institution:
+      name: "Department of CSE, Metropolitan University, Sylhet"
+    year: 2026

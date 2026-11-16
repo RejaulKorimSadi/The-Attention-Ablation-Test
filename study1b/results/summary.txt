@@ -1,0 +1,35 @@
+PER-MODEL RATES (%)
+model                                          n_items       prior_correct        follow_short         follow_long   follow_known_long  prior_fallback_long       support_short        support_long   follow_long_early  follow_long_middle    follow_long_late
+EleutherAI/pythia-1.4b                             999                74.8                98.2                96.4                96.0                 3.3               100.0               100.0                95.5                95.5                98.2
+EleutherAI/pythia-160m                             999                 4.5                55.3                38.4                53.3                 2.1                41.4                26.1                12.6                18.9                83.8
+EleutherAI/pythia-1b                               999                24.3                98.8                97.3                93.8                 2.1                98.2                98.2                97.3                96.4                98.2
+EleutherAI/pythia-2.8b                             999                85.6                99.7                95.5                94.7                 4.2               100.0               100.0                94.6                93.7                98.2
+EleutherAI/pythia-410m                             999                36.9                99.4                94.6                93.5                 2.1                98.2                98.2                89.2                96.4                98.2
+HuggingFaceTB/SmolLM2-1.7B                         999                99.1               100.0               100.0               100.0                 0.0               100.0               100.0               100.0               100.0               100.0
+Qwen/Qwen2.5-0.5B                                  999                82.0                99.4                98.8                98.5                 1.2               100.0               100.0                99.1                99.1                98.2
+Qwen/Qwen2.5-1.5B                                  999                97.3               100.0                99.1                99.1                 0.6               100.0               100.0               100.0                99.1                98.2
+Qwen/Qwen2.5-3B                                    999                95.5               100.0                99.4                99.4                 0.6               100.0               100.0               100.0                99.1                99.1
+state-spaces/mamba-1.4b-hf                         999                94.6                26.4                29.4                29.5                67.6                96.4                96.4                44.1                20.7                23.4
+state-spaces/mamba-130m-hf                         999                13.5                44.4                36.9                62.2                 8.7                56.8                49.5                27.9                28.8                54.1
+state-spaces/mamba-2.8b-hf                         999                92.8                93.7                76.3                75.7                21.6               100.0                99.1                79.3                63.1                86.5
+state-spaces/mamba-370m-hf                         999                48.6                77.5                50.8                42.0                20.1                85.6                75.7                42.3                40.5                69.4
+state-spaces/mamba-790m-hf                         999                87.4                91.9                70.9                67.7                21.0                98.2                97.3                72.1                64.9                75.7
+
+MATCHED PAIRS (Pythia vs Mamba): conflict items, followed = 1
+  pythia-160m  vs mamba-130m-hf    short  n=333  followed 184 vs 148  discordant  93/ 57  McNemar p=0.00411  support-correct 46/111 vs 63/111
+  pythia-160m  vs mamba-130m-hf    long   n=333  followed 128 vs 123  discordant  59/ 54  McNemar p=0.707  support-correct 29/111 vs 55/111
+  pythia-160m  vs mamba-130m-hf    all    n=666  followed 312 vs 271  discordant 152/111  McNemar p=0.0135  support-correct 75/222 vs 118/222
+  pythia-410m  vs mamba-370m-hf    short  n=333  followed 331 vs 258  discordant  75/  2  McNemar p=3.98e-20  support-correct 109/111 vs 95/111
+  pythia-410m  vs mamba-370m-hf    long   n=333  followed 315 vs 169  discordant 153/  7  McNemar p=6.68e-37  support-correct 109/111 vs 84/111
+  pythia-410m  vs mamba-370m-hf    all    n=666  followed 646 vs 427  discordant 228/  9  McNemar p=5.25e-56  support-correct 218/222 vs 179/222
+  pythia-1b    vs mamba-790m-hf    short  n=333  followed 329 vs 306  discordant  24/  1  McNemar p=1.55e-06  support-correct 109/111 vs 109/111
+  pythia-1b    vs mamba-790m-hf    long   n=333  followed 324 vs 236  discordant  89/  1  McNemar p=1.47e-25  support-correct 109/111 vs 108/111
+  pythia-1b    vs mamba-790m-hf    all    n=666  followed 653 vs 542  discordant 113/  2  McNemar p=3.21e-31  support-correct 218/222 vs 217/222
+  pythia-1.4b  vs mamba-1.4b-hf    short  n=333  followed 327 vs  88  discordant 239/  0  McNemar p=2.26e-72  support-correct 111/111 vs 107/111
+  pythia-1.4b  vs mamba-1.4b-hf    long   n=333  followed 321 vs  98  discordant 223/  0  McNemar p=1.48e-67  support-correct 111/111 vs 107/111
+  pythia-1.4b  vs mamba-1.4b-hf    all    n=666  followed 648 vs 186  discordant 462/  0  McNemar p=1.68e-139  support-correct 222/222 vs 214/222
+  pythia-2.8b  vs mamba-2.8b-hf    short  n=333  followed 332 vs 312  discordant  21/  1  McNemar p=1.1e-05  support-correct 111/111 vs 111/111
+  pythia-2.8b  vs mamba-2.8b-hf    long   n=333  followed 318 vs 254  discordant  69/  5  McNemar p=1.83e-15  support-correct 111/111 vs 110/111
+  pythia-2.8b  vs mamba-2.8b-hf    all    n=666  followed 650 vs 566  discordant  90/  6  McNemar p=2.5e-20  support-correct 222/222 vs 221/222
+
+GROUP (long conflict follow rate): attention mean 91.1% (n=9), state-space mean 52.9% (n=5), Mann-Whitney p=0.00699

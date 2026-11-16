@@ -1,0 +1,14 @@
+name: Question about the method or data
+description: Ask about the design, scoring, statistics or a data file.
+labels: ["question"]
+body:
+  - type: textarea
+    id: q
+    attributes:
+      label: Your question
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Related file or section
